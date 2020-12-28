@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.920c5ec6.chunk.css",
-    "main.js": "/static/js/main.b678f0ad.chunk.js",
-    "main.js.map": "/static/js/main.b678f0ad.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e8ec823f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e8ec823f.js.map",
-    "static/js/2.626ff334.chunk.js": "/static/js/2.626ff334.chunk.js",
-    "static/js/2.626ff334.chunk.js.map": "/static/js/2.626ff334.chunk.js.map",
-    "static/js/3.de0b8656.chunk.js": "/static/js/3.de0b8656.chunk.js",
-    "static/js/3.de0b8656.chunk.js.map": "/static/js/3.de0b8656.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.920c5ec6.chunk.css.map": "/static/css/main.920c5ec6.chunk.css.map",
-    "static/js/2.626ff334.chunk.js.LICENSE.txt": "/static/js/2.626ff334.chunk.js.LICENSE.txt",
-    "static/media/atrium.5ea56ff3.jpg": "/static/media/atrium.5ea56ff3.jpg",
-    "static/media/gringotts.a820afbf.svg": "/static/media/gringotts.a820afbf.svg"
+    "main.css": "/gringotts/static/css/main.920c5ec6.chunk.css",
+    "main.js": "/gringotts/static/js/main.b678f0ad.chunk.js",
+    "main.js.map": "/gringotts/static/js/main.b678f0ad.chunk.js.map",
+    "runtime-main.js": "/gringotts/static/js/runtime-main.419b995f.js",
+    "runtime-main.js.map": "/gringotts/static/js/runtime-main.419b995f.js.map",
+    "static/js/2.626ff334.chunk.js": "/gringotts/static/js/2.626ff334.chunk.js",
+    "static/js/2.626ff334.chunk.js.map": "/gringotts/static/js/2.626ff334.chunk.js.map",
+    "static/js/3.de0b8656.chunk.js": "/gringotts/static/js/3.de0b8656.chunk.js",
+    "static/js/3.de0b8656.chunk.js.map": "/gringotts/static/js/3.de0b8656.chunk.js.map",
+    "index.html": "/gringotts/index.html",
+    "static/css/main.920c5ec6.chunk.css.map": "/gringotts/static/css/main.920c5ec6.chunk.css.map",
+    "static/js/2.626ff334.chunk.js.LICENSE.txt": "/gringotts/static/js/2.626ff334.chunk.js.LICENSE.txt",
+    "static/media/atrium.5ea56ff3.jpg": "/gringotts/static/media/atrium.5ea56ff3.jpg",
+    "static/media/gringotts.a820afbf.svg": "/gringotts/static/media/gringotts.a820afbf.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e8ec823f.js",
+    "static/js/runtime-main.419b995f.js",
     "static/js/2.626ff334.chunk.js",
     "static/css/main.920c5ec6.chunk.css",
     "static/js/main.b678f0ad.chunk.js"
