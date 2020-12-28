@@ -1,3 +1,15 @@
+@import-normalize;
+
+:root {
+  --color-sirius-black: #282c34;
+  --color-golden-snitch: #866d1c;
+  --color-beige: #ebe0d1;
+  --color-blush: #BB9981;
+  --color-brown: #5B4C45;
+  --color-primary: var(--color-golden-snitch);
+  --color-text: var(--color-beige);
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -10,4 +22,10 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+a,
+a:visited  {
+  color: var(--color-text);
+  text-decoration: none;
 }
